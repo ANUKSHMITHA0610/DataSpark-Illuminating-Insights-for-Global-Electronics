@@ -36,7 +36,7 @@ Understand the impact of currency exchange rates on sales to better set internat
 
 ## Approch
 
-#### I. Data Cleaning and Preparation{}:
+#### I. Data Cleaning and Preparation:
 - Check for missing values and handle them appropriately.
 - Convert data types where necessary (e.g., dates, numerical values).
 - Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
